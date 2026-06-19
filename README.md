@@ -127,9 +127,7 @@ Please keep pull requests focused and ensure the project builds and lints cleanl
 
 ## Live Demo
 
-> **Coming soon** — The app is not deployed yet. Once live, the demo link will be added here.
-
-You can run the app locally by following the [Installation](#installation) steps above. For deployment, consider [Vercel](https://vercel.com) or [Render](https://render.com) with your `MONGO_URI` set as an environment variable.
+Live Demo [here](https://momentum-zeta-ten.vercel.app/)
 
 ## Contact Me
 
